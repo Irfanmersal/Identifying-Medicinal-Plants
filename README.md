@@ -33,3 +33,4 @@ UCI Machine Learning Repository: Source of the Swedish Leaf Dataset used in the 
 Convolutional Neural Networks (CNNs): Used for feature extraction and classification of plant leaves.
 
 Artificial Neural Networks (ANNs): Used as a baseline model to compare performance with CNNs.
+
